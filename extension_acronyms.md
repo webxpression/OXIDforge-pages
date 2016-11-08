@@ -129,6 +129,7 @@
 | vt  | [Marat Bedoev](http://vanilla-thunder.github.io/)  |
 | wes  | [Weber eBusiness Services GmbH](http://www.weber-ebusiness.de)  |
 | wn  | [Wendnet](http://exchange.oxid-esales.com/index.php?cl=search&amp;searchparam=wendnet)  |
+| wx  | [web-Xpression](http://www.web-xpression.com)  |
 | ys  | [Y-SQUARE](http://www.y-square.de/)  |
 | zox  | [Zoks.Net](http://www.zoks.net/)  |
 | zw  | [Zunderweb](http://zunderweb.de)  |
